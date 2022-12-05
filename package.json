@@ -23,3 +23,9 @@
     "react-scripts": "latest"
   }
 }
+"homepage": "https://github-username.github.io/nome-do-repositorio",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+},
+https://github.com/marcio24/C-piaStarbucks
